@@ -2,3 +2,9 @@
   position: absolute;
   width: 200px;
 }
+
+git config --global user.email "songa.lee@chungchy.com"
+git config --global user.name "이송아"
+
+
+git config --global user.name
